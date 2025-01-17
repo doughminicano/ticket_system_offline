@@ -1,15 +1,13 @@
-# React + Vite
+# ticketingSystemMaster
 
-<h2>This is a offline ticketing system. It's a offline version of my last ticketing system.</h2>
+<h1>Ticketing System Master</h1>
+<h4>Hostinger</h4>
 
-<h1>Here is a link to the live preview</h1>
-<span>https://ticketing.doughminicano.com/</span>
-
-<h3>Or you can download and try it out and modify it to your liking</h3>
+<body>
 
 
 
 
 
-# ticket_system_offline
 
+</body>
