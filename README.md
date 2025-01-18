@@ -18,9 +18,7 @@
 </ul>
 
 <table>
-  <caption>
-    Ticketing System | Daniel Garcia 2025
-  </caption>
+
   <thead>
     <tr>
       <th scope="col">Priority</th>
@@ -46,9 +44,9 @@
     </tr>
   </tbody>
   <tfoot>
-    <tr>
-      <th scope="row">Key</th>
-    </tr>
+  <caption>
+    Ticketing System | Daniel Garcia 2025
+  </caption>
   </tfoot>
 </table>
 
