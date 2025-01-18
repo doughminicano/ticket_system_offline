@@ -18,17 +18,10 @@
 </ul>
 
 <table>
-  <th>
     <th>
       Priority   
-    </th> 
-      <th>
-      Color  
-    </th> 
-      <th>
-      Description  
     </th>
-  <td>
+    <td>
     High
   </td>
     <td>
@@ -36,8 +29,13 @@
   </td>
     <td>
     Low
-  </td>
-  </th>
+  </td>Ï
+      <th>
+      Color  
+    </th> 
+      <th>
+      Description  
+    </th>
 </table>
 
 <body>
