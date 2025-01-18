@@ -1,8 +1,8 @@
 <h1>Ticketing System Offline</h1>
 
-<span>Version:Live Preview</span>
+<span>Version : Live Preview</span>
 
-<h4>Everything Used</h4>
+<h4>Everything Used:</h4>
 <ul>
   <li>
     Vite/React
