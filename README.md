@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <th scope="row">High</th>
-      <td style=color:"red">Red</td>
+      <td>Red</td>
       <td>When ever you set priority to 'High', the ticket border will be red</td>
     </tr>
     <tr>
@@ -43,6 +43,7 @@
       <td>When ever you set priority to 'Low', the ticket border will be blue</td>
     </tr>
   </tbody>
+  <br />
   <tfoot>
     Ticketing System | Daniel Garcia 2025
   </tfoot>
