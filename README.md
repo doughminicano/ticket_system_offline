@@ -47,7 +47,7 @@
   </tbody>
   <tfoot>
     <tr>
-      <th scope="row" colspan="2">Key</th>
+      <th scope="row">Key</th>
     </tr>
   </tfoot>
 </table>
